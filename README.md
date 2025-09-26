@@ -14,7 +14,8 @@ TBA
 2. For version select 1.20.1, for mod loader select Fabric, then choose the latest (at the time of writing, 0.17.2)
 3. Once the profile is made, click on it, and click "Folder" on the sidebar
 4. Download the modpack with the download button above and extract it
-5. Place the `config` and `mods` folder into the minecraft directory
+5. Place the `config` folder into the minecraft directory
+6. Move the `.jar` files into the `mods` directory (i messed up the upload soz)
 ### PojavLauncher (Android only, see note 1)
 TBA
 ## Mod list (client/server and client only):
