@@ -29,7 +29,6 @@ TBA
 - [FerriteCore 6.0.1](https://modrinth.com/mod/ferrite-core/version/6.0.1)
 - [Distant Horizons 2.3.4-b](https://modrinth.com/mod/distanthorizons/version/2.3.4-b-1.20.1)
 - [Fast Paintings 1.2.7](https://modrinth.com/mod/fast-paintings/version/1.20-1.2.7)
-- [Entity Culling 1.8.2](https://modrinth.com/mod/entityculling/version/3TCgPw5u)
 - [Particle Core 0.2.6](https://modrinth.com/mod/particle-core/version/0.2.6+1.20.1)
 - [ImmediatelyFast 1.5.2](https://modrinth.com/mod/immediatelyfast/version/1.5.2+1.20.4-fabric)
 - [Dynamic FPS 3.9.5](https://modrinth.com/mod/dynamic-fps/version/D9mrJwm0) (see note 3)
