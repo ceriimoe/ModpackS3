@@ -31,6 +31,7 @@ TBA
 - [Fast Paintings 1.2.7](https://modrinth.com/mod/fast-paintings/version/1.20-1.2.7)
 - [Moonlight Lib 2.16.13](https://modrinth.com/mod/moonlight/version/1.20-2.16.13-fabric)
 - [fzzy_config 0.7.2](https://modrinth.com/mod/fzzy-config/version/0.7.2+1.20.1)
+- [Balm 7.3.35](https://modrinth.com/mod/balm/version/7.3.35+fabric-1.20.1)
 - [Create Fabric 0.5.1j](https://modrinth.com/mod/create-fabric/version/0.5.1-j-build.1631+mc1.20.1)
 - [Create: Steam 'n' Rails 1.6.9](https://modrinth.com/mod/create-steam-n-rails/version/1.6.9+fabric-mc1.20.1)
 - [Anvil Restoration 2.4](https://modrinth.com/mod/anvil-restoration/version/1.20.1-2.4-fabric+forge+neo)
