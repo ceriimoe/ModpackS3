@@ -16,6 +16,7 @@ TBA
 4. Download the modpack with the download button above and extract it
 5. Place the `config` folder into the minecraft directory
 6. Move the `.jar` files into the `mods` directory (i messed up the upload soz)
+7. Download The Aether manually from [this link](https://modrinth.com/mod/aether/version/1.20.1-1.5.2-beta.9-fabric) (blame github)
 ### PojavLauncher (Android only, see note 1)
 TBA
 ## Mod list (client/server and client only):
