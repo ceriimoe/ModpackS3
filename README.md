@@ -90,7 +90,7 @@ TBA
 - [Regions Unexplored 0.5.6](https://modrinth.com/mod/regions-unexplored/version/A-0.5.6+1.20.1)
 - [Create Unlimited 0.6.3](https://modrinth.com/mod/create-unlimited/version/0.6.3)
 - [Enchantment Transfer 0.0.6](https://modrinth.com/mod/enchantment-transfer/version/0.0.6)
-- [Just Enough Items 15.20.0.155](https://modrinth.com/mod/jei/version/15.20.0.115)
+- [Just Enough Items 15.20.0.115](https://modrinth.com/mod/jei/version/15.20.0.115)
 - [Storage Drawers 12.14.3](https://modrinth.com/mod/storagedrawers/version/1.20.1-12.14.3)
 
 ## Notes
