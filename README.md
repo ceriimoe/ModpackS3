@@ -88,6 +88,10 @@ TBA
 - [Macaw's Paths and Pavings 1.1.1](https://modrinth.com/mod/macaws-paths-and-pavings/version/hwnmaZHh)
 - [Better Combat 1.8.6](https://modrinth.com/mod/better-combat/version/1.8.6+1.20.1-fabric)
 - [Regions Unexplored 0.5.6](https://modrinth.com/mod/regions-unexplored/version/A-0.5.6+1.20.1)
+- [Create Unlimited 0.6.3](https://modrinth.com/mod/create-unlimited/version/0.6.3)
+- [Enchantment Transfer 0.0.6](https://modrinth.com/mod/enchantment-transfer/version/0.0.6)
+- [Just Enough Items 15.20.0.155](https://modrinth.com/mod/jei/version/15.20.0.115)
+- [Storage Drawers 12.14.3](https://modrinth.com/mod/storagedrawers/version/1.20.1-12.14.3)
 
 ## Notes
 1. PojavLauncher on iOS does not support the correct version of Java, and is untestable at the moment (I gave away my only iOS 17 device), hence why the instructions are Android only. If you know what you're doing and can somehow get it to work, great!
