@@ -12,13 +12,17 @@ TBA
 ### Prism Launcher
 1. Click on Add Instance in the top left
 2. For version select 1.20.1, for mod loader select Fabric, then choose the latest (at the time of writing, 0.17.2)
-3. Once the profile is made, click on it, and click "Folder" on the sidebar
-4. Download the modpack with the download button above and extract it
-5. Place the `config` folder into the minecraft directory
-6. Move the `.jar` files into the `mods` directory (i messed up the upload soz)
-7. Download The Aether manually from [this link](https://modrinth.com/mod/aether/version/1.20.1-1.5.2-beta.9-fabric) (blame github) and place the jar file in the `mods` directory
-### PojavLauncher (Android only, see note 1)
-TBA
+3. Run the game to download any files
+4. Once the profile is made, click on it, and click "Folder" on the sidebar
+5. Download the modpack [here](https://github.com/ceriimoe/ModpackS3/archive/refs/heads/client.zip) and extract it
+6. Place the `config` folder into the minecraft directory
+7. Move the `.jar` files into the `mods` directory (i messed up the upload soz)
+8. Download The Aether manually from [this link](https://modrinth.com/mod/aether/version/1.20.1-1.5.2-beta.9-fabric) (blame github) and place the jar file in the `mods` directory
+### Apple Shortcuts (Mac-only)
+1. Use [this shortcut](https://www.icloud.com/shortcuts/16431cf2f68c4f79bb83103bd7391c1f) for a straight-forward, automatic install
+2. When prompted, find your minecraft directory (usually in your user profile > Library > Application Support) and select `options.txt`
+> If you don't have this, follow the "Stock installer" instructions until step TBA or follow the "Prism Launcher" steps until step 3.
+3. If prompted, allow Modpack Installer the permissions requested (access the Minecraft folder, access the internet, access to delete the temporary files it creates)
 ## Mod list (client/server and client only):
 - [Sodium 0.5.13](https://modrinth.com/mod/sodium/version/mc1.20.1-0.5.13-fabric)
 - [Indium 1.0.36](https://modrinth.com/mod/indium/version/1.0.36+mc1.20.1)
