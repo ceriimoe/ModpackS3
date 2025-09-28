@@ -5,7 +5,7 @@ This is the modpack for Season 3 of the AutoWorks Minecraft server.
 You will need
 - a legitimate copy of Minecraft (specifically, version 1.20.1)
 - the [Fabric mod loader](https://fabricmc.net/)
-- [Fabric API](https://modrinth.com/mod/fabric-api/version/0.92.6+1.20.1)
+- [Fabric API](https://modrinth.com/mod/fabric-api/version/0.92.6+1.20.1) (already included with the pack)
 ## Instructions
 ### Stock launcher
 TBA
